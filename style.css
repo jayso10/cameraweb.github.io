@@ -424,6 +424,7 @@ body {
 
     #Tablet-Container h3 {
         font-style: italic;
+        font-family: cursive;
         font-size: 1.25rem;
         text-align: center;
         margin-bottom: 0px;
@@ -431,7 +432,7 @@ body {
 
     #Tablet-Container h2 {
         font-size: 1.5625rem;
-        font-family: cursive;
+        font-family: verdana;
         margin-top: 0px;
     }
 
